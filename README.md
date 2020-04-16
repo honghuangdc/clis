@@ -1,5 +1,15 @@
-# clis
-已经配置好的各种框架的脚手架demo
-1.vue
-2.react
-....
+### 操作说明
+
+### 1.安装依赖
+```
+yarn || npm install   
+
+```
+### 开发环境，运行项目
+```
+yarn dev || npm run dev
+
+```
+### 构建项目
+```
+yarn build || npm run build
